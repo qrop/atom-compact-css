@@ -24,7 +24,7 @@ compactCss = ->
     else
       seqWhitespace = 0
 
-  compactedText = chars.join('').replace('\n', '');
+  compactedText = chars.join('')
   if selectedText
     editor.setTextInBufferRange editor.getSelectedBufferRange(), compactedText
   else
