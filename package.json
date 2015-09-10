@@ -1,0 +1,19 @@
+{
+  "name": "CompactCSS",
+  "main": "./lib/compact-css",
+  "version": "0.0.1",
+  "description": "Compacts individual CSS rules into single lines.",
+  "keywords": [
+    "css",
+    "compact"
+  ],
+  "activationCommands": {
+    "atom-workspace": "compact"
+  },
+  "repository": "https://github.com/qrop/compact-css",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "author": "Levi Perelman"
+}
