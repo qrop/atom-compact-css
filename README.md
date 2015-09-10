@@ -1,2 +1,2 @@
-# atom-compact-css
-Compacts individual CSS rules into single lines.
+# atom-css-compact
+An atom package that compacts individual CSS rules into single lines.
