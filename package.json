@@ -1,6 +1,6 @@
 {
-  "name": "CompactCSS",
-  "main": "./lib/compact-css",
+  "name": "css-compact",
+  "main": "./css-compact",
   "version": "0.0.1",
   "description": "Compacts individual CSS rules into single lines.",
   "keywords": [
@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "compact"
   },
-  "repository": "https://github.com/qrop/compact-css",
+  "repository": "https://github.com/qrop/atom-css-compact",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
